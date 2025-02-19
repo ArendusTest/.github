@@ -1,4 +1,8 @@
-## Hi there 👋
+# 2D
+
+Hei sina seal! Jah, just nimelt!! Sa lugesid õigesti. Tegemist saab olema meie esimese 2D mänguga Siia lisame eesmärgid.
+
+* Luua omamoodi ja lihtne 2D mäng
 
 <!--
 
