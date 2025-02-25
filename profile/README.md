@@ -1,3 +1,8 @@
+# Veebileht
+
+Esimeseks ülesandeks võtsime ette luua oma enda veebileht, kus arendame ja testime
+* CAS type veebileht - saad valida, milliseid laule oled juba kuulanud jne
+
 # 2D
 
 Hei sina seal! Jah, just nimelt!! Sa lugesid õigesti. Tegemist saab olema meie esimese 2D mänguga Siia lisame eesmärgid.
